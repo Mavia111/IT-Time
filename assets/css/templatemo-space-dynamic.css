@@ -970,7 +970,7 @@ About Us Style
 }
 
 .about-us .services .item .icon img {
-  max-width: 70px;
+  max-width: 100px;
 }
 
 .about-us .services .item h4 {
@@ -982,6 +982,8 @@ About Us Style
 
 .about-us .services .item p {
   color: #fff;
+  font-size: 13.5px !important;
+  line-height: 20px !important;
 }
 
 
