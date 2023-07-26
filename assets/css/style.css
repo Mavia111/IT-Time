@@ -1,3 +1,10 @@
 a.logo img {
     width: 67px;
 }
+
+.main-banner .left-content h2 {
+    font-size: 35px !important;
+    font-weight: 700;
+    color: #2a2a2a;
+    line-height: 62px !important;
+}
