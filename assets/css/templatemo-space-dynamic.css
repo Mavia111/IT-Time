@@ -835,7 +835,7 @@ Banner Style
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding: 226px 0px 120px 0px;
+  padding: 150px 0px 0px 0px;
   position: relative;
   overflow: hidden;
 }
@@ -869,6 +869,7 @@ Banner Style
 .main-banner .left-content h6 {
   text-transform: uppercase;
   font-size: 18px;
+  font-weight:600;
   color: #fe3f40;
   margin-bottom: 15px;
 }
@@ -877,7 +878,7 @@ Banner Style
   font-size: 35px;
   font-weight: 700;
   color: #2a2a2a;
-  line-height: 62px;
+  line-height: 50px;
 }
 
 .main-banner .left-content h2 em {
